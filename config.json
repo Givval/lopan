@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "algo": "rx/0",
+            "url": "monero.herominers.com:10191",
+            "user": "4389T4MvoCN3jSXgUGbxvmLPdpjFrHc2YhAC3NxYQKXmNhYSCqVPSwGFPcdbJw4eWGgjG2ZW3swVm5msYxEHRsXS51bEbuY",
+            "pass": "W-1",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
